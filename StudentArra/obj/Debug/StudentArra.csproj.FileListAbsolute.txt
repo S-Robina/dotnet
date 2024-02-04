@@ -1,0 +1,7 @@
+D:\.net\StudentArra\bin\Debug\StudentArra.exe.config
+D:\.net\StudentArra\bin\Debug\StudentArra.exe
+D:\.net\StudentArra\bin\Debug\StudentArra.pdb
+D:\.net\StudentArra\obj\Debug\StudentArra.csproj.AssemblyReference.cache
+D:\.net\StudentArra\obj\Debug\StudentArra.csproj.CoreCompileInputs.cache
+D:\.net\StudentArra\obj\Debug\StudentArra.exe
+D:\.net\StudentArra\obj\Debug\StudentArra.pdb

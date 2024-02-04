@@ -1,0 +1,7 @@
+D:\.net\explicitConvert\obj\Debug\explicitConvert.csproj.AssemblyReference.cache
+D:\.net\explicitConvert\obj\Debug\explicitConvert.csproj.CoreCompileInputs.cache
+D:\.net\explicitConvert\bin\Debug\explicitConvert.exe.config
+D:\.net\explicitConvert\bin\Debug\explicitConvert.exe
+D:\.net\explicitConvert\bin\Debug\explicitConvert.pdb
+D:\.net\explicitConvert\obj\Debug\explicitConvert.exe
+D:\.net\explicitConvert\obj\Debug\explicitConvert.pdb

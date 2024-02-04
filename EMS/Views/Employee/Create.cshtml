@@ -1,0 +1,42 @@
+﻿@model EMS.Models.EmployeeViewModel
+<div class="card">
+<div class="card-body">
+<form asp-controller="Employee" asp-action="Create">
+	<h2>Employee Form</h2>
+	<div class="row mt-3">
+		<div class="col-sm-6">
+		<label> First Name</label>
+		<input class="form-control" placeholder="firstName" asp-for="FirstName">
+		</div>
+		<div class="col-sm-6">
+			<label> Last Name</label>
+			<input class="form-control" placeholder="lastName" asp-for="LastName">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-6">
+			<label> Email </label>
+			<input class="form-control" placeholder="email" asp-for="Email">
+		</div>
+		<div class="col-sm-3">
+			<label> Gender </label>
+			<select class="form-select">
+				<option value ="1">Male</option>
+				<option value ="2">Female</option>
+				<option value ="3">others</option>
+			</select>
+		</div>
+		<div class="col-sm-3">
+			<label> Phno </label>
+			<input class="form-control" placeholder="phone number" asp-for="PhoneNumber">
+		</div>
+	</div>
+	<label>Address</label>
+	<input class="form-control" placeholder="address" asp-for="Address">
+	<label> Employee profile</label>
+	<input class="form-control" type="file" asp-for="PImage" >
+	<input type ="submit" class="btn btn-success text-white mt-3" >
+
+</form>
+	</div>
+</div>

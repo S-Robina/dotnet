@@ -1,0 +1,7 @@
+D:\.net\clss\bin\Debug\clss.exe.config
+D:\.net\clss\bin\Debug\clss.exe
+D:\.net\clss\bin\Debug\clss.pdb
+D:\.net\clss\obj\Debug\clss.csproj.AssemblyReference.cache
+D:\.net\clss\obj\Debug\clss.csproj.CoreCompileInputs.cache
+D:\.net\clss\obj\Debug\clss.exe
+D:\.net\clss\obj\Debug\clss.pdb

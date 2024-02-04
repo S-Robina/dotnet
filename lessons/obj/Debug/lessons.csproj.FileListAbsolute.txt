@@ -1,0 +1,7 @@
+D:\.net\lessons\bin\Debug\lessons.exe.config
+D:\.net\lessons\bin\Debug\lessons.exe
+D:\.net\lessons\bin\Debug\lessons.pdb
+D:\.net\lessons\obj\Debug\lessons.csproj.AssemblyReference.cache
+D:\.net\lessons\obj\Debug\lessons.csproj.CoreCompileInputs.cache
+D:\.net\lessons\obj\Debug\lessons.exe
+D:\.net\lessons\obj\Debug\lessons.pdb

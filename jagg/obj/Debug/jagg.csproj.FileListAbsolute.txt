@@ -1,0 +1,7 @@
+D:\.net\jagg\bin\Debug\jagg.exe.config
+D:\.net\jagg\bin\Debug\jagg.exe
+D:\.net\jagg\bin\Debug\jagg.pdb
+D:\.net\jagg\obj\Debug\jagg.csproj.AssemblyReference.cache
+D:\.net\jagg\obj\Debug\jagg.csproj.CoreCompileInputs.cache
+D:\.net\jagg\obj\Debug\jagg.exe
+D:\.net\jagg\obj\Debug\jagg.pdb

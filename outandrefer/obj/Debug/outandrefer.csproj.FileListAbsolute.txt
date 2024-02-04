@@ -1,0 +1,7 @@
+D:\.net\outandrefer\bin\Debug\outandrefer.exe.config
+D:\.net\outandrefer\bin\Debug\outandrefer.exe
+D:\.net\outandrefer\bin\Debug\outandrefer.pdb
+D:\.net\outandrefer\obj\Debug\outandrefer.csproj.AssemblyReference.cache
+D:\.net\outandrefer\obj\Debug\outandrefer.csproj.CoreCompileInputs.cache
+D:\.net\outandrefer\obj\Debug\outandrefer.exe
+D:\.net\outandrefer\obj\Debug\outandrefer.pdb
